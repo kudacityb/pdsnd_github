@@ -112,7 +112,6 @@ def station_stats(df):
     """Displays statistics on the most popular stations and trip."""
 
     print('\nCalculating The Most Popular Stations and Trip...\n')
-    start_time = time.time()
 
     # display most commonly used start station
     ssHistogram = df['Start Station'].unique()
@@ -135,7 +134,6 @@ def station_stats(df):
     print(rHistogram[0],'is the most common route of rentals which occurs ', rMostColumn.count()[1], ' times')
 
 
-    print("\nThis took %s seconds." % (time.time() - start_time))
     print('-'*40)
 
 
