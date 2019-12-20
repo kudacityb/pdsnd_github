@@ -7,7 +7,7 @@ CITY_DATA = { 'chicago': 'chicago.csv',
               'washington': 'washington.csv' }
 month='blank'
 day='blank'
-
+#get filter is function for inputs
 def get_filters():
     """
     Asks user to specify a city, month, and day to analyze.
@@ -41,7 +41,7 @@ def get_filters():
     print('-'*40)
     return city, month, day
 
-
+#load data is function to upload data and filter based on user input
 def load_data(city, month, day):
     """
     Loads data for the specified city and filters by month and day if applicable.
