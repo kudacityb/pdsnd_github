@@ -5,7 +5,7 @@
 Udacity git project
 
 ### Description
-Demonstrate changes in files using git commands
+Demonstrate changes in files using git commands - many changes many branches
 
 ### Files used
 readme.md bikeshare...
