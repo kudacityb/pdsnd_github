@@ -12,4 +12,4 @@ readme.md bikeshare...
 
 ### Credits
 Udacity lesssons, Richard's examples
-
+Feedback from reviewer of first submission
