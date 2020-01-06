@@ -3,6 +3,7 @@
 
 ### Project Title
 Udacity git project
+This project was appended with Readme file changes to demonstrate ability to edit commits with consistent style
 
 ### Description
 Demonstrate changes in files using git commands
