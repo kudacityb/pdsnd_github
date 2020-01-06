@@ -8,6 +8,7 @@ This project was appended with Readme file changes to demonstrate ability to edi
 
 ### Description
 3rd project for udacity
+Demonstrate changes in files using git commands - many changes many branches
 
 ### Files used
 bikeshare_2 .py
@@ -15,3 +16,5 @@ washington.csv, chicago.csv, new_york_city.csv
 
 ### Credits
 Udacity lessons, examples in lessons, instructions in quizes
+Udacity lesssons, Richard's examples
+Feedback from reviewer of first submission
